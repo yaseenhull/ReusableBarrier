@@ -1,3 +1,7 @@
+// ReusableBarrier Assignment
+// Yaseen Hull
+// May 2019 
+
 package molecule;
 
 import java.util.concurrent.Semaphore;
